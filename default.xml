@@ -9,11 +9,11 @@
 
   <!-- CAF -->
   <remote name="caf_system"
-          fetch="https://source.codeaurora.org/quic/la"
+          fetch="https://singapore.source.codeaurora.org/quic/la"
           review="codeaurora.org"/>
 
   <remote name="caf_vendor"
-          fetch="https://source.codeaurora.org/quic/la"
+          fetch="https://singapore.source.codeaurora.org/quic/la"
           review="codeaurora.org"
           revision="refs/tags/LA.UM.9.14.r1-18600.02-LAHAINA.QSSI12.0"/>
 
